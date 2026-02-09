@@ -1,0 +1,18 @@
+1.Als speler wil ik...lopen zodat ik kan lopen
+
+2.Als speler wil ik...interactie zodat ik dingen kan doen
+
+3.Als speler wil ik...vechten zodat ik een vijand kan aanvallen
+
+4.Als speler wil ik...een munt pakken die ervoor zorgt dat ik geld krijg
+
+5.Als speler wil ik...een bonus krijgen
+
+6.Als speler wil ik...wil ik meer levens omdat ik dood kan gaan
+
+7.Als speler wil ik...feedback zodat ik kan weten wat ik fout heb
+
+8.Als speler wil ik...progressie zodat ik hoger op kom
+
+9.Als systeem wil ik...dat het spel op pauze kan
+

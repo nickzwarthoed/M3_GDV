@@ -1,25 +1,21 @@
-# M2_GDV
+# M3_GDV
 
 # opdracht 1
-# beschrijving: op enter klikken en dan krijg je een willekeurige naam. op escape klikken om elke naam te noemen
 
-![!plaatje](array/video1.gif)
+1.Als speler wil ik...lopen zodat ik kan lopen
 
-link naar code [link](array/RandomItem.cs)
+2.Als speler wil ik...interactie zodat ik dingen kan doen
 
+3.Als speler wil ik...vechten zodat ik een vijand kan aanvallen
 
+4.Als speler wil ik...een munt pakken die ervoor zorgt dat ik geld krijg
 
-# peghglre
-dit is mijn spel
+5.Als speler wil ik...een bonus krijgen
 
-![!plaatje](Peggle_NickZwarthoed/animatie1.gif)
+6.Als speler wil ik...wil ik meer levens omdat ik dood kan gaan
 
-# code:
+7.Als speler wil ik...feedback zodat ik kan weten wat ik fout heb
 
-link naar code [ShootBall.cs](Peggle_NickZwarthoed/Assets/Scripts/ShootBall.cs)
+8.Als speler wil ik...progressie zodat ik hoger op kom
 
-link naar code [peggle.cs](Peggle_NickZwarthoed/Assets/Balls/peggle.cs)
-
-link naar code [ScoreManager.cs](Peggle_NickZwarthoed/Assets/Balls/ScoreManager.cs)
-
-link naar code [UIScoreBoard.cs](Peggle_NickZwarthoed/Assets/Balls/UIScoreBoard.cs)
+9.Als systeem wil ik...dat het spel op pauze kan
